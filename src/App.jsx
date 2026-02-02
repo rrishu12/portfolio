@@ -169,11 +169,13 @@ const handleSubmit = async (e) => {
               Hi, I'm <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 bg-clip-text text-transparent">Rishu</span>
             </h1>
             <p className="text-xl sm:text-2xl lg:text-3xl text-gray-300 mb-4">
-              Web Developer, Communication Designer & Digital Creator
+             Frontend Developer & Communication Designer
+
             </p>
             <p className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto">
-              Master's student in Web Communication Design from SDU Kolding in Denmark. I craft digital experiences, create social media content, and run my own YouTube channel.
-            </p>
+              Master's student in Web Communication Design at SDU Kolding, Denmark. 
+I build responsive web applications, design intuitive user interfaces, 
+and create engaging digital experiences.    </p>
             <div className="flex flex-wrap justify-center gap-4 mb-12">
               <button
                 onClick={() => scrollToSection('projects')}
