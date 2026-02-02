@@ -24,14 +24,14 @@ export default function Portfolio() {
       title: "Github Projects",
       description: "Projects across web development and data analytics.",
       tags: ["React", "Angular", "Tailwind CSS", "HTML5", "CSS", "SQL", "Python"],
-      image: "/github.jpg",
+      image: "/portfolio/github.jpg",
       link: "https://github.com/rrishu12?tab=repositories"
     },
     {
       title: "Design System & UI Kit",
       description: "Comprehensive design systems created in Figma with reusable components",
       tags: ["Figma", "Design System", "UI/UX"],
-      image: "/ui.jpg",
+      image: "/portfolio/ui.jpg",
       link: "https://www.figma.com/design/Hoe20vphh6QG5G5eAW0Ahm/Project-Designs?node-id=0-1&p=f&t=5igbWK8JG07azA1X-0"
     },
   ];
