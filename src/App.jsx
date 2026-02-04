@@ -40,13 +40,13 @@ export default function Portfolio() {
     {
       name: "Jaya Tulsaini",
       role: "Frontend Lead, FINARKEIN",
-      content: "Rishu consistently delivered high-quality work with a strong understanding of fintech requirements and deadlines. She was reliable, proactive, and a great collaborator within the team.",
+      content: "Rishu consistently delivered high-quality work with a strong understanding of fintech requirements and deadlines. She was reliable, proactive, and a great collaborator within the team. What impressed me most was her problem-solving approach, she didn't just implement designs, she thought critically about user experience and technical feasibility. Her ability to work independently while also being an excellent team player made her a cornerstone of our frontend development efforts. She would be an asset to any team.",
       avatar: "JT"
     },
     {
       name: "Athanasia Polyzogopoulou",
       role: "Student Assistant, LEGO",
-      content: "Rishu's combination of design and development skills is rare. She created a stunning portfolio site that truly represents our vision.",
+      content: "I really enjoyed working with Rishu in web communication design projects and getting to know her better during our data science course. She has a rare mix of a solid computer science background and a deeply user-centered approach to UX design, which makes collaborating with her both inspiring and effective. What I personally admire most about Rishu is how naturally she thinks from the user’s perspective. She asks the right questions, pays close attention to details that truly matter for usability and creates experiences that are clear and intuitive. Beyond her skills, she is a pleasure to work with. She's thoughtful, curious and brings a calm, intelligent presence to teamwork. I would wholeheartedly recommend her to any team looking for a UX designer who combines technical understanding, empathy for users and strong communication skills.",
       avatar: "AP"
     }
   ];
